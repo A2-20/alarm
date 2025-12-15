@@ -1,18 +1,25 @@
-# alarm
+Smart Alarm App
+A complete and advanced alarm application built with Flutter and Flutter Bloc for state management. The app features a modern and sleek dark-themed UI, providing users with an intuitive and seamless experience for managing their daily alarms.
 
-A new Flutter project.
+Key Features
+Full Alarm Management: Add, edit, delete, and toggle alarms
 
-## Getting Started
+Professional UI: Modern design with gradient colors and smooth shadows
 
-This project is a starting point for a Flutter application.
+Scheduled Notifications: Local notifications with multiple customization options
 
-A few resources to get you started if this is your first Flutter project:
+Advanced Settings: Repeat schedules, custom sounds, snooze, and vibration
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Data Persistence: Uses SharedPreferences for local alarm storage
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-![Screenshot 1447-06-24 at 2.10.32 PM.png](Screenshot%201447-06-24%20at%202.10.32%E2%80%AFPM.png)
-![Screenshot 1447-06-24 at 2.10.21 PM.png](Screenshot%201447-06-24%20at%202.10.21%E2%80%AFPM.png)
+Technologies Used
+Flutter with Dart
+
+Flutter Bloc for state management
+
+GetIt for dependency injection
+
+Flutter Local Notifications
+
+SharedPreferences for data storage
+![Screenshot 1447-06-24 at 2.10.32 PM.png](Screenshot%201447-06-24%20at%202.10.32%E2%80%AFPM.png)![Screenshot 1447-06-24 at 2.10.21 PM.png](Screenshot%201447-06-24%20at%202.10.21%E2%80%AFPM.png)
