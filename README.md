@@ -1,25 +1,27 @@
-Smart Alarm App
-A complete and advanced alarm application built with Flutter and Flutter Bloc for state management. The app features a modern and sleek dark-themed UI, providing users with an intuitive and seamless experience for managing their daily alarms.
+## ⏰ Smart Alarm App
 
-Key Features
-Full Alarm Management: Add, edit, delete, and toggle alarms
+**Smart Alarm App** is a complete and advanced alarm application built using **Flutter** and **Flutter Bloc** for efficient state management. The app features a modern, sleek **dark-themed UI**, delivering an intuitive and seamless experience for managing daily alarms.
 
-Professional UI: Modern design with gradient colors and smooth shadows
+### 🚀 Key Features
 
-Scheduled Notifications: Local notifications with multiple customization options
+* **Full Alarm Management**: Add, edit, delete, enable, and disable alarms easily
+* **Professional UI**: Modern dark design with gradient colors and smooth shadows
+* **Scheduled Notifications**: Local notifications with extensive customization options
+* **Advanced Settings**:
 
-Advanced Settings: Repeat schedules, custom sounds, snooze, and vibration
+  * Repeat schedules
+  * Custom alarm sounds
+  * Snooze functionality
+  * Vibration support
+* **Data Persistence**: Alarms are stored locally using SharedPreferences
 
-Data Persistence: Uses SharedPreferences for local alarm storage
+### 🛠️ Technologies Used
 
-Technologies Used
-Flutter with Dart
-
-Flutter Bloc for state management
-
-GetIt for dependency injection
-
-Flutter Local Notifications
-
-SharedPreferences for data storage
+* **Flutter & Dart**
+* **Flutter Bloc** – State management
+* **GetIt** – Dependency injection
+* **Flutter Local Notifications**
+* **SharedPreferences** – Local data storage
+  -------------------------------------------------
+  
 ![Screenshot 1447-06-24 at 2.10.32 PM.png](Screenshot%201447-06-24%20at%202.10.32%E2%80%AFPM.png)![Screenshot 1447-06-24 at 2.10.21 PM.png](Screenshot%201447-06-24%20at%202.10.21%E2%80%AFPM.png)
